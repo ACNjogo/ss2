@@ -2,6 +2,8 @@ This is a simple shell (command line interpreter) for the ALX program.
 Your shell will be compiled this way:
 
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+
+
 Your shell should work like this in interactive mode:
 
 $ ./hsh
